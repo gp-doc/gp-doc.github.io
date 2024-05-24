@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://gp-doc.github.io/blog</id>
+    <title>Graphoenix Blog</title>
+    <updated>2024-05-24T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://gp-doc.github.io/blog"/>
+    <subtitle>Graphoenix Blog</subtitle>
+    <icon>https://gp-doc.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>https://gp-doc.github.io/blog/welcome</id>
+        <link href="https://gp-doc.github.io/blog/welcome"/>
+        <updated>2024-05-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to Graphoenix!]]></summary>
+        <content type="html"><![CDATA[<p>Welcome to Graphoenix!</p>]]></content>
+        <author>
+            <name>Dou Kai</name>
+            <uri>https://github.com/doukai</uri>
+        </author>
+        <category label="graphoenix" term="graphoenix"/>
+    </entry>
+</feed>
