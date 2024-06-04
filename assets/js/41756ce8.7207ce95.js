@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkgp_doc_github_io=self.webpackChunkgp_doc_github_io||[]).push([[616],{5205:e=>{e.exports=JSON.parse('{"tags":[{"label":"graphoenix","permalink":"/blog/tags/graphoenix","count":1}]}')}}]);
